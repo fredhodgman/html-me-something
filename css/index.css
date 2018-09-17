@@ -8,7 +8,7 @@ body{
 }
 .body{
     display: grid;
-    grid-template-columns: 15% auto 1fr 1fr 15%;
+    grid-template-columns: 5% auto 1fr 1fr 5%;
     
 }
 .header{
